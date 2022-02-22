@@ -1,1 +1,2 @@
 System.out.println("olá, sou o lucas");
+Olá, eu sou uma nova linha que permite cadastrar novos usuários
